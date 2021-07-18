@@ -15,8 +15,8 @@ body{
     margin: auto;
 } */
 .header .container{
-    border-left: 5px solid #1c1c1c;
-    border-right: 5px solid #1c1c1c;
+    border-left: 5px solid #eb5757;
+    border-right: 5px solid #eb5757;
     background-color:#d195c4 ;
 }
 .header-menu .nav-item .nav-link {
@@ -50,8 +50,8 @@ body{
 .header-menu .nav-item .nav-link:hover{
     background-color: #4ab4d5;
     border-radius: 10px;
-    border-left: 3px solid #1c1c1c;
-    border-right: 3px solid #1c1c1c;
+    border-left: 5px solid #1c1c1c;
+    border-right: 5px solid #1c1c1c;
 }
 /* header menu part end */
 
@@ -61,7 +61,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    padding: 200px 0;
+     padding: 220px; 
 }
 .banner-text span{
     color: #ffa500;
@@ -72,6 +72,7 @@ body{
 .strategic-container{
     margin-bottom: 20px;
 }
+/* client area start */
 
 /* footer css area start*/
 .footer-top{
